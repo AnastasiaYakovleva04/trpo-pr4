@@ -3,13 +3,30 @@
     src: url('C:\Users\Админ\Documents\шрифты\Angry\Angry.otf');
 }
 body{
-    padding: 2.5%;
+    padding: 3%;
     color: rgb(29, 26, 26);
 }
 h1{
     font-family: 'Angry';
+    color: hotpink;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 65%;
+    color: darkmagenta;
+}
+button{
+    margin-top: 15px;
+    padding: 5px 15px;
+    background-color: white;
+    border: 1.5px solid darkmagenta;
+    color: darkmagenta;
+    border-radius: 10px;
+    width: 130px;
+}
+button:hover{
+    background-color: hotpink;
+    color: white;
+    cursor: pointer;
+    transition: 0.25s;
 }
