@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'Angry';
+    src: url('C:\Users\Админ\Documents\шрифты\Angry\Angry.otf');
+}
+body{
+    padding: 2.5%;
+    color: rgb(29, 26, 26);
+}
+h1{
+    font-family: 'Angry';
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 65%;
+}
